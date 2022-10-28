@@ -1,0 +1,1 @@
+Learning how to use activity lifecycle and intent.
